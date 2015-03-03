@@ -1,0 +1,13 @@
+*.o
+*.exe
+*.cbp
+*.workspace
+*.codelite
+*.session
+*.tags
+*.user
+*.db
+*.mk
+Debug/
+*.project
+*.pdb
